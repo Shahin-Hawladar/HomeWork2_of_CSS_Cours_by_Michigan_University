@@ -66,13 +66,17 @@ main {
 }
 
 footer {
-  background-color: #0b1ba8;
+  background-color: #093b04;
   font-size: 15pt;
-  color: #e8e7f0;
+  color: #d9f365;
   padding: 20px;
 }
 
-
+footer p a{
+  color: #ff033a ;
+  font-size: 150%;
+  text-decoration: double underline;
+}
 
 /* li {
   display: inline-block;
