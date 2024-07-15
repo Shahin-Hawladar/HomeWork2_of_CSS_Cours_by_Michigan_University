@@ -158,7 +158,7 @@ footer {
 footer p a{  
   -moz-font-feature-settings: on;
   color: #ddd7d8 ;
-  -moz-font-size:150%
+  -moz-font-size:150%;
   font-size: 150%;
   text-decoration: double;
   text-decoration: underline;
