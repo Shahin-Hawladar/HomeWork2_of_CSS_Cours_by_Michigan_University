@@ -40,7 +40,7 @@ nav {
   flex-wrap: wrap;
 }
 nav img{
-  width: 10%;
+  width: 11%;
 }
 
 
@@ -135,6 +135,8 @@ div.grid img {
 .grid img{
   width: 100%;
 }
+
+/* The flex class uses the display, flex-wrap, and  justify-content properties to copy the look of the example.  */
 div.flex {
   display: flex;
   flex-wrap: wrap;
