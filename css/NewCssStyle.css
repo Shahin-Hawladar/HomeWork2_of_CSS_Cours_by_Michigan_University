@@ -161,4 +161,5 @@ footer p a{
   -moz-font-size:150%
   font-size: 150%;
   text-decoration: double underline;
+  text-decoration: underline;
 }
