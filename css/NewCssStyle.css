@@ -65,18 +65,7 @@ main {
 
 }
 
-footer {
-  background-color: #093b04;
-  font-size: 15pt;
-  color: #d9f365;
-  padding: 20px;
-}
 
-footer p a{
-  color: #ff033a ;
-  font-size: 150%;
-  text-decoration: double underline;
-}
 
 /* li {
   display: inline-block;
@@ -156,4 +145,18 @@ div.grid img {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+}
+
+
+footer {
+  background-color: #093b04;
+  font-size: 15pt;
+  color: #d9f365;
+  padding: 20px;
+}
+
+footer p a{
+  color: #ff033a ;
+  font-size: 150%;
+  text-decoration: double underline;
 }
