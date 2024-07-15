@@ -36,12 +36,13 @@ nav {
 
   background-color: #38e728;
   /* Update width */
-  width:58%;
+  width:69%;
   flex-wrap: wrap;
 }
 nav img{
-  display: inline-block
-  width: 11%;
+  margin: auto auto auto 5%;
+  display: inline-block;
+  width: 15%;
 }
 
 
@@ -105,8 +106,8 @@ p {
 
 .grid {
   display: grid;
-  grid-template-columns: 40% 40%;
-  gap: 10%; 
+  grid-template-columns: 45% 45%;
+  gap: 9%; 
   /* adjust the gap between the columns */
   row-gap: 1%; 
   justify-content: space-between ;
@@ -138,8 +139,9 @@ div.grid img {
 }
 
 /* The flex class uses the display, flex-wrap, and  justify-content properties to copy the look of the example.  */
-div.flex {
+.flex {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
